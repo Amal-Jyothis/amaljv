@@ -3,8 +3,8 @@
 #### Technical Skills: Python, Huggingface, MATLAB
 
 ## Education						       		
-- M.S., Robotics System Engineer	| RWTH University, Aachen (_June 2025_)	 			        		
-- B.E., Aerospace                 | Indian Institute of Space Science and Technology (_May 2015_)
+- M.S., Robotics System Engineering	| RWTH University, Aachen (_June 2025_)	 			        		
+- B.E., Aerospace Engineering       | Indian Institute of Space Science and Technology (_May 2015_)
 
 ## Work Experience
 **Work Student @ Deutsches Zentrum für Luft- und Raumfahrt (DLR),  Würselen (_October 2023 – April 2025_)**
@@ -22,11 +22,11 @@
 - Generative Adversarial Network (GAN) is a generative model introduced by Ian J. Goodfellow and team.
 - Implementation of GAN model for image generation on MNIST dataset.
 - Artificial images of handwritten numbers are generated using GAN model.
-- [Github link: ](https://github.com/Amal-Jyothis/mnist_gan)
+- [Github link](https://github.com/Amal-Jyothis/mnist_gan)
 
 **Conditional Generative Adversarial Network (C-GAN) for image generation on MNIST dataset**
 - Conditional Generative Adversarial Network (CGAN) is a generative model of GAN class introduced by Mehdi Mirza and team.
 - Implementation of CGAN model for image generation on MNIST dataset.
 - Artificial images of handwritten numbers are generated for specific classes using the model.
-- [Github link: ](https://github.com/Amal-Jyothis/mnist-cgan)
+- [Github link](https://github.com/Amal-Jyothis/mnist-cgan)
 
