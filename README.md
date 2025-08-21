@@ -1,10 +1,10 @@
 # Machine Learning Engineer
 
-#### Technical Skills: Python, Huggingface, MATLAB
+#### Technical Skills: Python, Huggingface, Gen AI, Deep Learning
 
 ## Education						       		
-- M.S., Robotics System Engineering	| RWTH University, Aachen (_June 2025_)	 			        		
-- B.E., Aerospace Engineering       | Indian Institute of Space Science and Technology (_May 2015_)
+- M.S., Robotics System Engineering	 | RWTH University, Aachen (_June 2025_)	 			        		
+- B.E., Aerospace Engineering         | Indian Institute of Space Science and Technology (_May 2015_)
 
 ## Work Experience
 **Work Student @ Deutsches Zentrum für Luft- und Raumfahrt (DLR),  Würselen (_October 2023 – April 2025_)**
