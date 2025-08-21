@@ -4,7 +4,7 @@
 
 ## Education						       		
 - M.S., Robotics System Engineering	 | RWTH University, Aachen (_June 2025_)	 			        		
-- B.E., Aerospace Engineering         | Indian Institute of Space Science and Technology (_May 2015_)
+- B.E., Aerospace Engineering &emsp;&emsp;| Indian Institute of Space Science and Technology (_May 2015_)
 
 ## Work Experience
 **Work Student @ Deutsches Zentrum für Luft- und Raumfahrt (DLR),  Würselen (_October 2023 – April 2025_)**
