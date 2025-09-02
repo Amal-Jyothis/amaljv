@@ -2,10 +2,6 @@
 
 #### Technical Skills: Python, Huggingface, Gen AI, Deep Learning
 
-## Education						       		
-- M.S., Robotics System Engineering | RWTH University, Aachen (_June 2025_)	 			        		
-- B.E., Aerospace Engineering &emsp;&emsp;&emsp;| Indian Institute of Space Science and Technology (_May 2015_)
-
 ## Work Experience
 **Work Student @ Deutsches Zentrum für Luft- und Raumfahrt (DLR),  Würselen (_October 2023 – April 2025_)**
 - Implemented generative machine learning models: Generative Adversarial Network (GAN), Variational Auto Encoder (VAE) and Diffusion models, for generating realistic artificial material test data.
@@ -29,4 +25,8 @@
 - Implementation of CGAN model for image generation on MNIST dataset.
 - Artificial images of handwritten numbers are generated for specific classes using the model.
 - [Github link](https://github.com/Amal-Jyothis/mnist-cgan)
+
+## Education						       		
+- M.S., Robotics System Engineering | RWTH University, Aachen (_June 2025_)	 			        		
+- B.E., Aerospace Engineering &emsp;&emsp;&emsp;| Indian Institute of Space Science and Technology (_May 2015_)
 
