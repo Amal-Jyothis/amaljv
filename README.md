@@ -4,16 +4,19 @@
 
 ## Work Experience
 **Work Student @ Deutsches Zentrum für Luft- und Raumfahrt (DLR),  Würselen (_October 2023 – April 2025_)**
-- Implemented generative machine learning models: Generative Adversarial Network (GAN), Variational Auto Encoder (VAE) and Diffusion models, for generating realistic artificial material test data.
-- Models implemented using Pytorch as the framework.
-- The artificially generated data were used to augment the training dataset for material property prediction.
-- Experience in containerization of packages using docker.
-
+- Designed and implemented generative ML models (GANs, VAEs, Diffusion) in Python/PyTorch to generate synthetic material test data.
+- Conducted hyperparameter tuning to improve dataset realism.
+- Built ML workflow for ingesting input data, generating artificial data, evaluating the model and acceptance of the generated data.
+- The artificially generated data were used to augmentation of the training dataset for material property prediction.
 
 **Product Engineer  @ Indian Space Research Organization, Trivandrum (_September 2015 – September 2022_)**
 - Designed and developed composite optical structures and solar panels for space missions including Indian Lunar Mission, Chandrayan-2.
 
 ## Projects
+**Benchmarking and Optimisation of Densenet 121 architecture**
+- Applied optimization methods (Pruning, ONNX deployment) on Densenet-121 with ImageNet. Benchmarked inference performance (latency, throughput, memory) for real-time deployment scenarios.
+- [Github link](https://github.com/Amal-Jyothis/densenet-benchmarking)
+  
 **Image generation using Generative Adversarial Network**
 - Generative Adversarial Network (GAN) is a generative model introduced by Ian J. Goodfellow and team.
 - Implementation of GAN model for image generation on MNIST dataset.
