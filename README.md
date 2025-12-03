@@ -31,6 +31,9 @@
 - Applied parameter-efficient fine-tuning (LoRA) to LLM for generating structured JSON file which can be transformed to .IFC file of building model.
 - [Github link](https://github.com/Amal-Jyothis/building_model_generate)
 
+**Estimation of Football Stats using Computer Vision**
+- [Github link](https://github.com/Amal-Jyothis/football-stats-from-video)
+
 ## Education						       		
 - M.S., Robotics System Engineering | RWTH University, Aachen (_June 2025_)	 			        		
 - B.E., Aerospace Engineering &emsp;&emsp;&emsp;| Indian Institute of Space Science and Technology (_May 2015_)
