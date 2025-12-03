@@ -1,6 +1,6 @@
 # Machine Learning Engineer
 
-#### Technical Skills: Python, Huggingface, Gen AI, Deep Learning
+#### Technical Skills: Generative AI, Deep Learning, Computer Vision, Large Language Models
 
 ## Work Experience
 **Work Student @ Deutsches Zentrum für Luft- und Raumfahrt (DLR),  Würselen (_October 2023 – April 2025_)**
@@ -17,17 +17,19 @@
 - Applied optimization methods (Pruning, ONNX deployment) on Densenet-121 with ImageNet. Benchmarked inference performance (latency, throughput, memory) for real-time deployment scenarios.
 - [Github link](https://github.com/Amal-Jyothis/densenet-benchmarking)
   
-**Image generation using Generative Adversarial Network**
-- Generative Adversarial Network (GAN) is a generative model introduced by Ian J. Goodfellow and team.
+**Image generation using Generative Adversarial Network (GAN)**
 - Implementation of GAN model for image generation on MNIST dataset.
 - Artificial images of handwritten numbers are generated using GAN model.
 - [Github link](https://github.com/Amal-Jyothis/mnist_gan)
 
 **Conditional Generative Adversarial Network (C-GAN) for image generation on MNIST dataset**
-- Conditional Generative Adversarial Network (CGAN) is a generative model of GAN class introduced by Mehdi Mirza and team.
 - Implementation of CGAN model for image generation on MNIST dataset.
 - Artificial images of handwritten numbers are generated for specific classes using the model.
 - [Github link](https://github.com/Amal-Jyothis/mnist-cgan)
+
+**Parameter Efficient Fine Tuning (PEFT) of LLM using Low-Rank Adaptation (LoRA) for generating building model**
+- Applied parameter-efficient fine-tuning (LoRA) to LLM for generating structured JSON file which can be transformed to .IFC file of building model.
+- [Github link](https://github.com/Amal-Jyothis/building_model_generate)
 
 ## Education						       		
 - M.S., Robotics System Engineering | RWTH University, Aachen (_June 2025_)	 			        		
